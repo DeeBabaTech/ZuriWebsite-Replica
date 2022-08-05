@@ -784,11 +784,11 @@ td {
     }
     .socials {
         margin: 20px auto;
-        width: 50%;
+        width: 60%;
     }
     .copyright {
         display: block;
-        width: 80%;
+        width: 100%;
         margin: auto;
     }
     .copyright > div {
